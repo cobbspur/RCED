@@ -18,6 +18,7 @@ Link to this file in default.hbs
 
 Finally add html element as a placeholder for the content you wish to show/hide with a class of .gsd-buffer
 E.g:
+
     <div class=".gsd-buffer">
     <a href="http://bufferapp.com/add" class="buffer-add-button" data-text="{{title}}" data-url="{{url absolute="true"}}" data-count="vertical" ></a>
     <script type="text/javascript" src="https://d389zggrogs7qo.cloudfront.net/js/button.js"></script>
